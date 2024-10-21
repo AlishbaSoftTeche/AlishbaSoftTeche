@@ -1,5 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F0B555&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;Web+Developer+%7C+Enthusiast)
+
 # Hi, I'm Alishba Abbas 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F0B555&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alishba+Abbas+%F0%9F%91%8B)
 
 AI/ML Developer | Enthusiast | Web Developer
 
