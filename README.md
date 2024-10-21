@@ -1,11 +1,12 @@
 # AlishbaSoftTeche
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=%E2%98%85+Innovating+the+Future+of+AI+%E2%98%85|%F0%9F%9A%80+Welcome+to+my+GitHub+profile+%F0%9F%9A%80&pause=1000)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%E2%98%85+Innovating+the+Future+of+AI+%E2%98%85|%F0%9F%9A%80+Welcome+to+my+GitHub+profile+%F0%9F%9A%80&pause=1000&color=00FF00)
+
 
 **"Hi, I'm Alishba Abbas 👋"**
 ---
 AI/ML Developer | Enthusiast | Web Developer  
 📍 Pakistan  
-[LinkedIn](https://www.linkedin.com/in/alishba-abbas-b16656229) | [GitHub](https://github.com/AlishbaSoftTeche) | [Instagram](https://www.instagram.com/alishba_softteche?utm_source=qr&igsh=MTNkcTNzZXJkYnJyeQ==)
+[LinkedIn](https://www.linkedin.com/in/alishba-abbas-1ba1a128a/) | [GitHub](https://github.com/AlishbaSoftTeche) | [Instagram](https://www.instagram.com/alishba_softteche?utm_source=qr&igsh=MTNkcTNzZXJkYnJyeQ==)
 
 ---
 
@@ -29,7 +30,7 @@ I am a passionate developer with expertise in AI, machine learning, and full-sta
 
 ### 📫 Reach Out:
 Feel free to connect with me:  
-[LinkedIn](https://www.linkedin.com/in/alishba-abbas-b16656229) | [GitHub](https://github.com/AlishbaSoftTeche)
+[LinkedIn](https://www.linkedin.com/in/alishba-abbas-1ba1a128a/) | [GitHub](https://github.com/AlishbaSoftTeche)
 ---
 ### 🔧 Technical Skills:
 - **Languages:** Python, JavaScript, HTML, CSS
