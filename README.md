@@ -1,4 +1,7 @@
 # Hi, I'm Alishba Abbas 👋
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F0B555&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;Web+Developer+%7C+Enthusiast)
+
 AI/ML Developer | Enthusiast | Web Developer
 
 🌟 "Shaping the Future of AI & Web Development" 🌟
@@ -21,8 +24,8 @@ I am a passionate developer with expertise in AI, machine learning, and full-sta
 
 ### 📫 Reach Out:
 Feel free to connect with me:
-- [LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/alishba-abbas-1ba1a128a/))
-- [GitHub]([your-github-link](https://github.com/AlishbaSoftTeche/AlishbaSoftTeche))
+- [LinkedIn](https://www.linkedin.com/in/alishba-abbas-1ba1a128a/)
+- [GitHub](https://github.com/AlishbaSoftTeche/AlishbaSoftTeche)
 
 ---
 
@@ -43,7 +46,7 @@ Feel free to connect with me:
 ### 🏆 Certifications:
 - **Generative AI Course** – Air University
 - **IoT Certification** – University of Sargodha
-- **SEO Certification**
+- **SEO Certification** - University of Sargodha
 
 ---
 
