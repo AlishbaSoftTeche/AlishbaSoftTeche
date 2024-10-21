@@ -1,5 +1,6 @@
 # AlishbaSoftTeche
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%E2%98%85+Innovating+the+Future+of+AI+%E2%98%85|%F0%9F%9A%80+Welcome+to+my+GitHub+profile+%F0%9F%9A%80)
+
 **"Hi, I'm Alishba Abbas 👋"**
 ---
 AI/ML Developer | Enthusiast | Web Developer  
