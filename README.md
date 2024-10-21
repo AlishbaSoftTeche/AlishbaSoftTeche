@@ -1,13 +1,14 @@
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color= #00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alishba+Abbas+%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alishba+Abbas+%F0%9F%91%8B)
+
 
 AI/ML Developer | Enthusiast | Web Developer
 
 🌟 "Shaping the Future of AI & Web Development" 🌟
 ---
 I am a passionate developer with expertise in AI, machine learning, and full-stack web development. I enjoy building smart solutions and applying AI to solve real-world problems. Currently, I’m working on various innovative projects and always looking to learn more.
-
+ 
 ### 👀 Areas of Interest:
 - Artificial Intelligence (AI)
 - Machine Learning (ML)
