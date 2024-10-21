@@ -1,5 +1,5 @@
 # AlishbaSoftTeche
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%E2%98%85+%E2%9A%9C%EF%B8%8FInnovating+the+Future+of+AI+%E2%98%85|%F0%9F%9A%80+Welcome+to+my+GitHub+profile+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Welcome+to+my+GitHub+profile+%F0%9F%9A%80)
 
 **"Hi, I'm Alishba Abbas 👋"**
 ---
@@ -30,14 +30,14 @@ I am a passionate developer with expertise in AI, machine learning, and full-sta
 ### 📫 Reach Out:
 Feel free to connect with me:  
 [LinkedIn](https://www.linkedin.com/in/alishba-abbas-1ba1a128a/) | [GitHub](https://github.com/AlishbaSoftTeche)
----
+
 ### 🔧 Technical Skills:
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Frameworks:** React, Django, Flask
 - **AI/ML Tools:** TensorFlow, Keras, PyTorch
 - **Web Development:** React, Node.js, Express
 - **Version Control:** Git, GitHub
-
+---
 ### 🚀 Featured Projects:
 - **Spam Email Classifier:** Developed using NLP techniques to classify spam emails.
 - **E-commerce Website:** A T-shirt selling platform built using React and Node.js.
