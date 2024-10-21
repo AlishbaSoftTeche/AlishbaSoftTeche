@@ -23,7 +23,7 @@ I am a passionate developer with expertise in AI, machine learning, and full-sta
 ### 🌱 Currently Learning:
 - Django with AWS deployment
 - Advanced AI techniques for predictive modeling
-
+---
 ### 💡 Open to Collaborations:
 - AI-based projects
 - Full-stack web development projects
@@ -31,7 +31,7 @@ I am a passionate developer with expertise in AI, machine learning, and full-sta
 ### 📫 Reach Out:
 Feel free to connect with me:  
 [LinkedIn](https://www.linkedin.com/in/alishba-abbas-b16656229) | [GitHub](https://github.com/AlishbaSoftTeche)
-
+---
 ### 🔧 Technical Skills:
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Frameworks:** React, Django, Flask
