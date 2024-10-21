@@ -1,6 +1,6 @@
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alishba+Abbas+%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Hi%2C+I'm+Alishba+Abbas+%F0%9F%91%8B)
 
 
 AI/ML Developer | Enthusiast | Web Developer
