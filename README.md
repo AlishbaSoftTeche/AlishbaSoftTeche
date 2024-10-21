@@ -7,7 +7,7 @@ AI/ML Developer | Enthusiast | Web Developer
 🌟 "Shaping the Future of AI & Web Development" 🌟
 
 I am a passionate developer with expertise in AI, machine learning, and full-stack web development. I enjoy building smart solutions and applying AI to solve real-world problems. Currently, I’m working on various innovative projects and always looking to learn more.
-
+---
 ### 👀 Areas of Interest:
 - Artificial Intelligence (AI)
 - Machine Learning (ML)
@@ -21,7 +21,7 @@ I am a passionate developer with expertise in AI, machine learning, and full-sta
 ### 💡 Open to Collaborations:
 - AI-based projects
 - Full-stack web development projects
-
+---
 ### 📫 Reach Out:
 Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/alishba-abbas-1ba1a128a/)
