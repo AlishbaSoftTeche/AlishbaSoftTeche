@@ -1,73 +1,38 @@
-# 👋 Hi, I'm Alishba Abbas
+<!-- Profile Header with Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Alishba+Abbas;AI+Automation+Specialist;n8n+%26+Chatbot+Expert;API+Integration+Developer" alt="Typing SVG" />
+</div>
 
-**AI Automation Specialist | n8n Expert | Chatbot Developer**
+<!-- About Section -->
+## 🌸 About Me
 
-📍 Pakistan | ✉️ alishbasoftteche@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/alishba-abbas-b16656229)
+I build **AI-powered systems** that work while you sleep.
 
----
-
-### 🚀 What I Do
-
-I build **AI-powered automation systems** and **intelligent chatbots** that help businesses scale without hiring more people.
-
-- 🤖 **AI Chatbots** — WhatsApp, web, Messenger, Telegram
-- 🔄 **Workflow Automation** — n8n, Zapier, API integrations
-- 🎙️ **Voice AI** — Retell AI for appointment booking & lead qualification
-- 🧠 **NLP & Machine Learning** — Classification, prediction, sentiment analysis
+- 🤖 **AI Chatbots** for WhatsApp, Web & Messenger
+- 🔄 **n8n Workflows** that save 20+ hours/week
+- 🎙️ **Voice AI** for appointment booking & lead qualification
 - 🌐 **Web Development** — React, Node.js, WordPress
 
----
-
-### 🔥 Live Projects
-
-| Project | Link / Demo |
-|---------|-------------|
-| **BUEH.org** — Hospital website with AI chatbot | [bueh.org](https://bueh.org) |
-| **WhatsApp Business Bot** — Auto-replies & lead collection | `+971541609370` |
-| **Restaurant Reservation System** — Live booking | `+12365009880` |
-| **Portfolio Website** | [alishbasoftteche.github.io/AlishbaAbbas](https://alishbasoftteche.github.io/AlishbaAbbas) |
+📍 Based in Pakistan  
+📫 Reach me: alishbasoftteche@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/alishba-abbas-1ba1a128a) • [Portfolio](https://alishbasoftteche.github.io/AlishbaAbbas)
 
 ---
 
-### 🛠️ Tech Stack
+## 🔥 Live Projects
 
-**Languages:** Python, JavaScript, HTML, CSS, SQL
-
-**Automation:** n8n, Zapier, Make
-
-**AI/ML:** OpenAI API, Claude API, TensorFlow, scikit-learn, LangChain (learning)
-
-**Frameworks:** React, Node.js, Django, Flask
-
-**Tools:** Git, GitHub, VS Code, Postman
+| Project | Tech Stack | Demo |
+|---------|------------|------|
+| **BUEH.org** — Hospital website with AI chatbot | WordPress, OpenAI API | [Live](https://bueh.org) |
+| **WhatsApp Business Bot** | n8n, WhatsApp API | `+971541609370` |
+| **Restaurant Reservation System** | n8n, SMS/WhatsApp | `+12365009880` |
 
 ---
 
-### 📌 Featured Repositories
+## 🛠️ Tech Stack
 
-- [housing-price-prediction](https://github.com/AlishbaSoftTeche/housing-price-prediction) — ML regression model
-
-*(More projects coming soon — n8n workflows, chatbot code, automation templates)*
-
----
-
-### 📊 GitHub Stats
-
-![Alishba's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlishbaSoftTeche&show_icons=true&theme=default)
-
----
-
-### 💬 Let's Connect
-
-I'm open to:
-- AI automation projects
-- Chatbot development
-- Freelance collaborations
-
-📧 alishbasoftteche@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/alishba-abbas-b16656229)  
-📱 [Instagram](https://instagram.com/alishba_softteche)
-
----
-
-✨ *"Building systems that work while you sleep."*
+```text
+Automation:   n8n ⚡ Zapier 🔗 Make
+AI/ML:        OpenAI 🤖 Claude 🧠 LangChain (learning)
+Web:          React ⚛️ Node.js 🟢 WordPress
+Languages:    Python 🐍 JavaScript ☕ SQL
