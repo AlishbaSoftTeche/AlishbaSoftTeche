@@ -1,51 +1,73 @@
-# AlishbaSoftTeche
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Welcome+to+my+GitHub+profile+%F0%9F%9A%80)
+# 👋 Hi, I'm Alishba Abbas
 
-**"Hi, I'm Alishba Abbas 👋"**
----
-AI/ML Developer | Enthusiast | Web Developer  
-📍 Pakistan  
-[LinkedIn](https://www.linkedin.com/in/alishba-abbas-1ba1a128a/) | [GitHub](https://github.com/AlishbaSoftTeche) | [Instagram](https://www.instagram.com/alishba_softteche?utm_source=qr&igsh=MTNkcTNzZXJkYnJyeQ==)
+**AI Automation Specialist | n8n Expert | Chatbot Developer**
+
+📍 Pakistan | ✉️ alishbasoftteche@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/alishba-abbas-b16656229)
 
 ---
 
-🌟 **"Shaping the Future of AI & Web Development"** 🌟
+### 🚀 What I Do
 
-I am a passionate developer with expertise in AI, machine learning, and full-stack web development. I enjoy building smart solutions and applying AI to solve real-world problems. Currently, I’m working on various innovative projects and always looking to learn more.
+I build **AI-powered automation systems** and **intelligent chatbots** that help businesses scale without hiring more people.
 
-### 👀 Areas of Interest:
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Natural Language Processing (NLP)
-- Web Development (React, Django)
+- 🤖 **AI Chatbots** — WhatsApp, web, Messenger, Telegram
+- 🔄 **Workflow Automation** — n8n, Zapier, API integrations
+- 🎙️ **Voice AI** — Retell AI for appointment booking & lead qualification
+- 🧠 **NLP & Machine Learning** — Classification, prediction, sentiment analysis
+- 🌐 **Web Development** — React, Node.js, WordPress
 
-### 🌱 Currently Learning:
-- Django with AWS deployment
-- Advanced AI techniques for predictive modeling
 ---
-### 💡 Open to Collaborations:
-- AI-based projects
-- Full-stack web development projects
 
-### 📫 Reach Out:
-Feel free to connect with me:  
-[LinkedIn](https://www.linkedin.com/in/alishba-abbas-1ba1a128a/) | [GitHub](https://github.com/AlishbaSoftTeche)
+### 🔥 Live Projects
 
-### 🔧 Technical Skills:
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** React, Django, Flask
-- **AI/ML Tools:** TensorFlow, Keras, PyTorch
-- **Web Development:** React, Node.js, Express
-- **Version Control:** Git, GitHub
+| Project | Link / Demo |
+|---------|-------------|
+| **BUEH.org** — Hospital website with AI chatbot | [bueh.org](https://bueh.org) |
+| **WhatsApp Business Bot** — Auto-replies & lead collection | `+971541609370` |
+| **Restaurant Reservation System** — Live booking | `+12365009880` |
+| **Portfolio Website** | [alishbasoftteche.github.io/AlishbaAbbas](https://alishbasoftteche.github.io/AlishbaAbbas) |
+
 ---
-### 🚀 Featured Projects:
-- **Spam Email Classifier:** Developed using NLP techniques to classify spam emails.
-- **E-commerce Website:** A T-shirt selling platform built using React and Node.js.
-- **Medical Imaging for Disease Detection:** Using deep learning models to analyze medical images.
 
-### 🏆 Certifications:
-- Generative AI Course – Air University
-- IoT Certification – University of Sargodha
-- SEO Certification - University of Sargodha
+### 🛠️ Tech Stack
 
-Let's innovate and create impactful solutions together!
+**Languages:** Python, JavaScript, HTML, CSS, SQL
+
+**Automation:** n8n, Zapier, Make
+
+**AI/ML:** OpenAI API, Claude API, TensorFlow, scikit-learn, LangChain (learning)
+
+**Frameworks:** React, Node.js, Django, Flask
+
+**Tools:** Git, GitHub, VS Code, Postman
+
+---
+
+### 📌 Featured Repositories
+
+- [housing-price-prediction](https://github.com/AlishbaSoftTeche/housing-price-prediction) — ML regression model
+
+*(More projects coming soon — n8n workflows, chatbot code, automation templates)*
+
+---
+
+### 📊 GitHub Stats
+
+![Alishba's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlishbaSoftTeche&show_icons=true&theme=default)
+
+---
+
+### 💬 Let's Connect
+
+I'm open to:
+- AI automation projects
+- Chatbot development
+- Freelance collaborations
+
+📧 alishbasoftteche@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/alishba-abbas-b16656229)  
+📱 [Instagram](https://instagram.com/alishba_softteche)
+
+---
+
+✨ *"Building systems that work while you sleep."*
